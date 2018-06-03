@@ -1,0 +1,3 @@
+[submodule "home_credict_risk"]
+	path = home_credict_risk
+	url = git@github.com:BigAN/home_credict_risk.git
